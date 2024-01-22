@@ -1,0 +1,4 @@
+{
+  "ORConnectionString": "Data Source=localhost;Initial Catalog=ObjectRepository;User ID=root;Password=root",
+  "ORSQL": "SELECT  propertyvalue,propertyname FROM Page p JOIN ObjectMap om ON p.pageid=om.pageid  JOIN objectproperties op ON om.objectid=op.objectid join releases r ON r.releaseid=op.releaseid  WHERE p.pagename=@pagename AND om.objectname=@objectname"
+}

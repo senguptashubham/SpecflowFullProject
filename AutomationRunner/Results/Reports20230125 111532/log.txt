@@ -1,0 +1,17 @@
+2023-01-25 23:15:33.024 +05:30 [DBG] ********************************************************************************
+2023-01-25 23:15:33.030 +05:30 [INF] ********************************************************************************
+2023-01-25 23:15:33.030 +05:30 [INF] Configuration |RUN PARAMETERS
+2023-01-25 23:15:33.030 +05:30 [INF] ********************************************************************************
+2023-01-25 23:15:33.030 +05:30 [INF] Configuration|BROWSER TYPE: chrome
+2023-01-25 23:15:33.030 +05:30 [INF] Configuration|BROWSER VERSION: 
+2023-01-25 23:15:33.030 +05:30 [INF] Configuration|GRID HUB URL: https://localhost:4444/wd/hub
+2023-01-25 23:15:33.030 +05:30 [INF] Configuration|REGION: S2
+2023-01-25 23:15:33.030 +05:30 [INF] Configuration|STEP SCREENSHOT: off
+2023-01-25 23:15:33.032 +05:30 [INF] Configuration|EXTENT REPORT PORTAL URL: 
+2023-01-25 23:15:33.032 +05:30 [INF] Configuration|EXTENT REPORT LOCALLY: off
+2023-01-25 23:15:33.032 +05:30 [INF] Configuration|LOG LEVEL: Debug
+2023-01-25 23:15:33.032 +05:30 [INF] Configuration|DATA SET LOCATION: D:\AutomationFramework\Automation.Framework\AutomationRunner\DataSetLocation
+2023-01-25 23:15:33.032 +05:30 [INF] Configuration|DOWNLOADED LOCATION: D:\AutomationFramework\Automation.Framework\AutomationRunner\DataSetLocation
+2023-01-25 23:15:33.032 +05:30 [INF] ********************************************************************************
+2023-01-25 23:15:33.032 +05:30 [INF] ********************************************************************************
+2023-01-25 23:15:42.938 +05:30 [ERR] Provded locator does not exists. SauceLabLogin.txtUsername1
